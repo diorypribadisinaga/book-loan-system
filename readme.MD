@@ -9,3 +9,6 @@
 8. Swagger http://localhost:5000/api-docs 
 9. npm run test => testing
 10. npm run lint => eslint
+
+### Jawaban algoritma
+**Folder algoritma**
